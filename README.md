@@ -1,5 +1,5 @@
 # auth-api
----
+
 
 **FastAPI Authentication and Authorization API with Redis and MongoDB**
 
